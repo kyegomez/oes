@@ -24,7 +24,7 @@ OES is a self-hostable embeddings service. It allows you to embed data of variou
 
 # Quick Start
 
-Create a `config.json` file like so:
+Create a `config.yaml` file like so:
 
 ```yaml
 ---
